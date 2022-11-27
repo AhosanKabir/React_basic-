@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(2, 1, 1);
+  color: #fff;
+  padding: 10px;
+}
+
+.card {
+  background-color: rgb(237, 163, 73);
+  width: 250px;
+  height: auto;
+  padding: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+
+.title_1 {
+  font-size: 30px;
+  margin-bottom: 10px;
+  color: aqua;
+}
+
+.title_2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: azure;
+}
